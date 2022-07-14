@@ -1,6 +1,6 @@
 <p align="center"><img width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></p>
 
-<h1 align="center">Hi, I'm Duván</h1>
+<h1 align="center">Hi👋, I'm Duván</h1>
 
 <h2 align="center"> Passionate software engineer from Colombia 🇨🇴</h2>
 
@@ -8,8 +8,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/duvancortes_mc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/duvancortes_mc)
 [![Website](https://img.shields.io/website?label=instagram&style=for-the-badge&url=https%3A%2F%2Finstagram)](https://www.instagram.com/duvancortes_mc)
 
-
-Hi 👋 My name is Duván
 ==========================
 
 I am a Software Engineer at Softtek
