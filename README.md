@@ -4,7 +4,7 @@
 
 <h2 align="center"> Passionate software engineer from Colombia 🇨🇴</h2>
 
-[![Website](https://img.shields.io/website?label=goodreads&style=for-the-badge&url=https%3A%2F%2Fgoodreads)](https://[kacperhernacki.com](https://www.goodreads.com/user/show/119409331-duv-n-mejia-cortes)
+[![Website](https://img.shields.io/website?label=goodreads&style=for-the-badge&url=https%3A%2F%2Fgoodreads)](https://acortar.link/QHwXCR)
 [![Twitter Follow](https://img.shields.io/twitter/follow/duvancortes_mc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/duvancortes_mc)
 [![Website](https://img.shields.io/website?label=instagram&style=for-the-badge&url=https%3A%2F%2Finstagram)](https://www.instagram.com/duvancortes_mc)
 
