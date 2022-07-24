@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/website?label=instagram&style=for-the-badge&url=https%3A%2F%2Finstagram)](https://www.instagram.com/duvancortes_mc)
 
 
-I am a Software Engineer at Softtek
+I am a Software Legend!
 
 
 
