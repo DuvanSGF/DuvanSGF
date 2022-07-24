@@ -13,8 +13,7 @@ I am a Software Engineer at Softtek
 
 
 
-* 🌍 I live in Neiva, Colombia
-* 🔭 I’m currently working at Softtek as DBA and in my free time I love to learn about data science and building projects on my own
+* 🔭 I’m currently working at Softtek as a DBA and in my free time I love to learn about data science and building projects on my own
 * ⚡ I love to read, playing basketball, self-developing
 * 📫 How to reach me software.bugs.io@gmail.com
 <br></br>
