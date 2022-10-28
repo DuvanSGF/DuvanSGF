@@ -25,7 +25,7 @@ I am a Software Legend!
 <a href = "https://www.linkedin.com/in/duvan-mejia-cortes-6812451a2/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/duvancortes_mc"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/duvancortes_mc/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.goodreads.com/user/show/119409331-duv-n-mejia-cortes/"><img src="https://img.icons8.com/plasticine/344/000000/goodreads.png"/></a>
+<a href = "https://www.goodreads.com/user/show/119409331-duv-n-mejia-cortes/"><img src="https://img.icons8.com/dusk/48/000000/goodreads.png"/></a>
 </p>
 
 <br />
